@@ -1,2 +1,4 @@
 /worlds/*/Intermediate
 /worlds/*/Saved
+/worlds/one_cube/Build/HTML5/FileOpenOrder/*.log
+*.log
