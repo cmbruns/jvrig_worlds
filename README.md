@@ -6,4 +6,6 @@ This project contains shared worlds for the Janelia Virtual Reality Interest Gro
 
 Club members will need to learn to use "git" to use this repository. 
  * Windows users should install TortoiseGit.
- * Then clone this repository using the URL found in the "clone or download" or "copy to clipboard" button above.
+ * Then get this repository URL found in the "clone or download" or "copy to clipboard" button above.
+ * Browse to a folder of your choice in Windows Explorer (I use a folder called "git" under Documents), right click, and select "Git Clone..."
+ 
