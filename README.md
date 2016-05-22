@@ -1,5 +1,9 @@
 # jvrig_worlds
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/cmbruns/jvrig_worlds/master/assets/images/cube_in_editor.png" width="500"/>
+</p>
+
 This project contains shared worlds for the Janelia Virtual Reality Interest Group
 
 ## Getting your own copy
